@@ -1,0 +1,10 @@
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\bin\Debug\sims_7_dice.exe.config
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\bin\Debug\sims_7_dice.exe
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\bin\Debug\sims_7_dice.pdb
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\obj\Debug\sims_7_dice.csprojResolveAssemblyReference.cache
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\obj\Debug\sims_7_dice.Form1.resources
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\obj\Debug\sims_7_dice.Properties.Resources.resources
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\obj\Debug\sims_7_dice.csproj.GenerateResource.Cache
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\obj\Debug\sims_7_dice.csproj.CoreCompileInputs.cache
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\obj\Debug\sims_7_dice.exe
+c:\users\111\source\repos\sims_7_dice\sims_7_dice\obj\Debug\sims_7_dice.pdb
